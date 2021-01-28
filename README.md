@@ -1,9 +1,8 @@
-# RL 공부
+# RL tensorflow2.4 ver
 
-- use colab
-- use tensorflow 2.4v
-- use Pendulum-v0
+- Colab
+  - Pendulum-v0
 
 
-- Models
+- Implementation
   - A2C
